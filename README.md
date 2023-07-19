@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fan, a student at Shanghai Jiao Tong University
 - 👀 I’m interested in various topics in deep learning, including generative models, trustworthy AI, representative learning, etc
 - 🌱 I’m currently doing research on autonomous driving
-- 💞️ See my CV[https://github.com/fannie1208/fan-cv/blob/main/resume.pdf]
+- 💞️ Please refer to my [CV](https://github.com/fannie1208/fan-cv/blob/main/resume.pdf)
 - 📫 Email: youluo2001@sjtu.edu.cn or niefan1208@gmail.com
 
 <!---
