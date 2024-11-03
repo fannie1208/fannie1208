@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fan, exploring AI at Stanford University
+- 👋 Hi, I’m Faye, exploring AI at Stanford University
 - 👀 I’m interested in various topics including generative models, generalization, representative learning, autonomous driving, etc
 - 🌱 I’m currently doing research on LLM factuality
 - 💞️ Please refer to my [CV](https://github.com/fannie1208/fan-cv/blob/main/resume.pdf)
